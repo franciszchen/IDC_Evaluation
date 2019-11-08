@@ -1,1 +1,1 @@
-# IDC_Neural_Network_Acceleration_Compression_Evaluation
+#  Integral of Decay Curve (IDC) Evaluation
