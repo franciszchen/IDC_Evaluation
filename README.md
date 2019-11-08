@@ -3,7 +3,7 @@ Integral of Decay Curve (IDC) is an evaluator to judge the efficiency of various
 
 ## Usage
 
-## Author
+
 
 ## Citation
 
