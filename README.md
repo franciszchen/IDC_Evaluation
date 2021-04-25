@@ -2,7 +2,7 @@
 Integral of Decay Curve (IDC) is an evaluation indicator to judge the efficiency of various neural network acceleration and compression algorithms, as proposed in the paper **"Deep Neural Network Acceleration Based on Low-Rank Approximated Channel Pruning"** [[paper](https://www.researchgate.net/publication/338332234_Deep_Neural_Network_Acceleration_Based_on_Low-Rank_Approximated_Channel_Pruning)] from **TCAS-I 2020**.
 
 <div align=center><img width="300" src=/fig/fig4.png></div>
-<div align=center><img width="400" src=/fig/fig6_a.png></div><div align=center><img width="400" src=/fig/fig6_b.png></div>
+<div align=center><img width="400" src=/fig/fig6_a.png>  <img width="400" src=/fig/fig6_b.png></div>
 <div align=center><img width="700" src=/fig/fig5.png></div>
 
 ## Usage
