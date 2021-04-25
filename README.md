@@ -10,6 +10,15 @@ Integral of Decay Curve (IDC) is an evaluation indicator to judge the efficiency
 * The cubic interpolation  curves of compression samples on various networks and datasets confirm the conjecture of smooth convex functions:
 <div align=center><img width="700" src=/fig/fig5.png></div>
 
+
+## Usage Example
+```matlab
+acc_orig = 93.45;
+data_record= xlsread('./cifar10/record.xlsx');
+decay_record = 1 - data_record(:, 1)/acc_orig;
+c_idc = rd(data_record(:,2),100*decay_record(:, 1),[10,20],'dr')
+```
+
 ## Citation
 If you find our work useful in your research or publication, please cite our work:
 ```
