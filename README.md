@@ -4,7 +4,7 @@ Integral of Decay Curve (IDC) is an evaluation indicator to judge the efficiency
 * Illustration  on  IDC  calculation.  The  orange  area  under the curve indicates  the  accumulation  of  relative  performance  decay  over  the  specified interval: 
 <div align=center><img width="350" src=/fig/fig4.png></div>
 
-* The examples  reveal  the rationality  and  necessity  of IDC. The dotsare samples by different  quantization  methods, and the curves are fitted with third-order  polynomials: 
+* The examples  reveal  the rationality  and  necessity  of IDC. The dots are samples by different  quantization  methods, and the curves are fitted with third-order  polynomials: 
 <div align=center><img width="300" src=/fig/fig6_a.png>  <img width="300" src=/fig/fig6_b.png></div>
 
 * The cubic interpolation  curves of compression samples on various networks and datasets confirm the conjecture of smooth convex functions:
